@@ -1,6 +1,6 @@
 //profile-title: base64: 8J+UpSBXQVJQIPCflKU=
 //profile-update-interval: 6
-//subscription-userinfo: upload=100; download=100; total=1100418240; expire=1023249531
+//subscription-userinfo: upload=100; download=100; total=110041; expire=1023249
 //support-url: https://t.me/vipgsm
 //profile-web-page-url: https://vipgsm.co
 
