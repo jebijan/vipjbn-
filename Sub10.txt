@@ -1,13 +1,13 @@
 #profile-title: base64:8J+GkyBHaXQ6QmFycnktZmFyIHwgU3ViMTAg8J+rgg==
 #profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
+#subscription-userinfo: upload=29; download=10; total=00000018240000000; expire=0000249531
+#support-url: https://github.com/jbn
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
 
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+#profile-update-interval: 10
+#subscription-userinfo: upload=10000; download=100000; total=10737418240000000; expire=000009531
+#support-url: https://t.me/v2ray
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2
 
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6MCwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUiLCJmcmFnbWVudCI6IjEwLTIwLDEwLTIwLHRsc2hlbGxvIiwiaG9zdCI6ImNkbTEuZGFya3BhY2sudGVjaCIsImlkIjoiMjk3YzI3MDktYWMwYy00Yzk5LWFhNjEtMmQxMWYwZjUzNjAwIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiXC9HQlN3TVViREZmTUJtM2huSG9leCIsInBvcnQiOjQ0Mywic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJjZG0xLmRhcmtwYWNrLnRlY2giLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBWMnJheUNvbGxlY3RvckRvbmF0ZSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMifQ==
 vmess://eyJhZGQiOiIxMDQuMjEuNjMuNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ1czY1Lm5ldGZpbHgubGl2ZSIsImlkIjoiNjBmMTI0MzUtYmI1NS00ZGEyLWNiN2QtNGZlYTM0ZWNmYTM3IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAbWZ0aXppIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyJ9
